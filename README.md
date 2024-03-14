@@ -77,10 +77,10 @@ src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&l
 </p>
 <br>
 <p align="center">
-  <img alt="centered image" height="85" src="images/us.svg"/>
+  <img alt="centered image" src="flag.jpeg"/>
   <br>
   <img alt="README Update" 
-  src="https://github.com/j0caine/j0caine/actions/workflows/readme_update.yaml/badge.svg" />
+  src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
 Last updated on: 2024-03-13 04:10 PM MST
 </p>
