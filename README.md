@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Halo semua! 
  
-Perkenalkan nama saya Joice Lumban Tobing.<br>
+Perkenalkan nama saya **Joice Lumban Tobing**.<br>
  
-Saya seorang mahasiswa jurusan Informatika di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
+Saya seorang **mahasiswa jurusan Informatika** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/jjjoice_/)ku ya.
  
