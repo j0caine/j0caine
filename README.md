@@ -33,11 +33,6 @@ So far, I like this course, it's really fun. I hope after this course, I can use
 <br>
 </p> 
 
-<figure>
-  <img src="fam.jpg" width="20%" img alt ="Me & My Family">
-  <figcaption>Me & My Family</figcaption>
-</figure>
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/j0caine">
@@ -79,9 +74,19 @@ src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&l
 <text>One: Live your lazy life diligently.<br> —jocaine</text>
 </p>
 <br>
+
 <p align="center">
   <img alt="centered image" width="30%" src="flag.png"/>
   <br>
+  <div align="center">
+<p>Have a good day!</p>
+  </p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
+<br>
+<p align="center">
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
